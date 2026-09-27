@@ -1,0 +1,101 @@
+rank	imdb	title	id	year
+1	tt6751668	Parasite	parasite	2019
+2	tt0166924	Mulholland Drive	mulholland.driv_tt0166924	2001
+3	tt0469494	There Will Be Blood	there.will.be.b_tt0469494	2007
+4	tt0118694	In the Mood for Love	in.the.mood.for_tt0118694	2000
+5	tt4975722	Moonlight	moonlight_tt4975722	2016
+6	tt0477348	No Country for Old Men	no.country.for._tt0477348	2007
+7	tt0338013	Eternal Sunshine of the Spotless Mind	eternal.sunshin_tt0338013	2004
+8	tt5052448	Get Out	get_out	2017
+9	tt0245429	Spirited Away	spirited.away_tt0245429	2001
+10	tt1285016	The Social Network	social_network	2010
+11	tt1392190	Mad Max: Fury Road	fury_road	2015
+12	tt7160372	The Zone of Interest	zone.of.interes_tt7160372	2023
+13	tt0206634	Children of Men	children.of.men_tt0206634	2006
+14	tt0361748	Inglourious Basterds	inglourious_basterds	2009
+15	tt0317248	City of God	city.of.god_tt0317248	2002
+16	tt0190332	Crouching Tiger, Hidden Dragon	crouching_tiger_hidden_dragon	2000
+17	tt0388795	Brokeback Mountain	brokeback.mount_tt0388795	2005
+18	tt0245574	Y tu mamá también	y.tu.mam.tambin_tt0245574	2001
+19	tt0443706	Zodiac	zodiac_tt0443706	2007
+20	tt0993846	The Wolf of Wall Street	wolf.of.wall.st_tt0993846	2013
+21	tt0265666	The Royal Tenenbaums	royal.tenenbaum_tt0265666	2001
+22	tt2278388	The Grand Budapest Hotel	grand.budapest._tt2278388	2014
+23	tt1065073	Boyhood	boyhood_tt1065073	2014
+24	tt1798709	Her	her_tt1798709	2013
+25	tt5776858	Phantom Thread	phantom.thread_tt5776858	2017
+26	tt17009710	Anatomy of a Fall	anatomy.of.a.fa_tt17009710	2023
+27	tt0268126	Adaptation.	adaptation._tt0268126	2002
+28	tt0468569	The Dark Knight	dark_knight	2008
+29	tt2543164	Arrival	arrival	2016
+30	tt0335266	Lost in Translation	lost.in.transla_tt0335266	2003
+31	tt0407887	The Departed	departed	2006
+32	tt1478338	Bridesmaids	bridesmaids	2011
+33	tt1832382	A Separation	a.separation_tt1832382	2011
+34	tt0910970	WALL·E	walle_tt0910970	2008
+35	tt1235166	A Prophet	a.prophet_tt1235166	2009
+36	tt1019452	A Serious Man	a.serious.man_tt1019452	2009
+37	tt5726616	Call Me by Your Name	call.me.by.your_tt5726616	2017
+38	tt8613070	Portrait of a Lady on Fire	portrait.of.a.l_tt8613070	2019
+39	tt4925292	Lady Bird	lady.bird_tt4925292	2017
+40	tt0244316	Yi Yi	yi.yi.a.one.and_tt0244316	2000
+41	tt0211915	Amélie	amlie_tt0211915	2001
+42	tt1560747	The Master	master_tt1560747	2012
+43	tt0364569	Oldboy	oldboy_tt0364569	2003
+44	tt7131622	Once Upon a Time... in Hollywood	once_upon_a_time_in_hollywood	2019
+45	tt1210166	Moneyball	moneyball_tt1210166	2011
+46	tt6155172	Roma	roma_tt6155172	2018
+47	tt0181875	Almost Famous	almost.famous_tt0181875	2000
+48	tt0405094	The Lives of Others	lives.of.others_tt0405094	2006
+49	tt0381681	Before Sunset	before.sunset_tt0381681	2004
+50	tt1049413	Up	up_tt1049413	2009
+51	tt2024544	12 Years a Slave	12.years.a.slav_tt2024544	2013
+52	tt5083738	The Favourite	favourite_tt5083738	2018
+53	tt0443453	Borat	borat	2006
+54	tt0457430	Pan's Labyrinth	pans.labyrinth_tt0457430	2006
+55	tt1375666	Inception	inception	2010
+56	tt0272338	Punch-Drunk Love	punchdrunk.love_tt0272338	2002
+57	tt0218839	Best in Show	best.in.show_tt0218839	2000
+58	tt5727208	Uncut Gems	uncut_gems	2019
+59	tt4048272	Toni Erdmann	toni.erdmann_tt4048272	2016
+60	tt2582802	Whiplash	whiplash_tt2582802	2014
+61	tt0266697	Kill Bill: Vol. 1	kill.bill.vol.._tt0266697	2003
+62	tt0209144	Memento	memento_tt0209144	2000
+63	tt0449059	Little Miss Sunshine	little.miss.sun_tt0449059	2006
+64	tt2267998	Gone Girl	gone_girl	2014
+65	tt15398776	Oppenheimer	oppenheimer_tt15398776	2023
+66	tt1895587	Spotlight	spotlight_tt1895587	2015
+67	tt14444726	Tár	tr_tt14444726	2022
+68	tt0887912	The Hurt Locker	hurt.locker_tt0887912	2008
+69	tt1441395	Under the Skin		2013
+70	tt1139797	Let the Right One In	let.the.right.o_tt1139797	2008
+71	tt0240772	Ocean's Eleven	oceans_11_fs	2001
+72	tt2402927	Carol	carol_tt2402927	2015
+73	tt0382932	Ratatouille	ratatouille_tt0382932	2007
+74	tt5649144	The Florida Project	florida.project_tt5649144	2017
+75	tt1602620	Amour	amour_tt1602620	2012
+76	tt0190590	O Brother, Where Art Thou?	o.brother.where_tt0190590	2000
+77	tt6710474	Everything Everywhere All at Once	everything.ever_tt6710474	2022
+78	tt19770238	Aftersun		2022
+79	tt0478304	The Tree of Life	tree.of.life_tt0478304	2011
+80	tt0441909	Volver	volver_tt0441909	2006
+81	tt0947798	Black Swan	black.swan_tt0947798	2010
+82	tt2375605	The Act of Killing	act.of.killing_tt2375605	2012
+83	tt2042568	Inside Llewyn Davis	inside.llewyn.d_tt2042568	2013
+84	tt1527186	Melancholia	melancholia_tt1527186	2011
+85	tt0357413	Anchorman: The Legend of Ron Burgundy	anchorman_fs	2004
+86	tt13238346	Past Lives	past.lives_tt13238346	2023
+87	tt0120737	The Lord of the Rings: The Fellowship of the Ring	lotr_fellowship	2001
+88	tt0247380	The Gleaners & I		2000
+89	tt0816692	Interstellar	interstellar	2014
+90	tt2347569	Frances Ha	frances.ha_tt2347569	2012
+91	tt1232776	Fish Tank	fish.tank_tt1232776	2009
+92	tt0172495	Gladiator	gladiator	2000
+93	tt0465538	Michael Clayton	michael.clayton_tt0465538	2007
+94	tt0181689	Minority Report	minority_report	2002
+95	tt10370710	The Worst Person in the World	worst.person.in_tt10370710	2021
+96	tt1825683	Black Panther	black_panther	2018
+97	tt1454468	Gravity	gravity	2013
+98	tt0427312	Grizzly Man	grizzly.man_tt0427312	2005
+99	tt0353969	Memories of Murder	memories.of.mur_tt0353969	2003
+100	tt0829482	Superbad	superbad	2007

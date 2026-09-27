@@ -1,0 +1,101 @@
+rank	imdb	title	id	year
+1	tt0033467	Citizen Kane	citizen.kane_tt0033467	1941
+2	tt0068646	The Godfather	godfather_tt0068646	1972
+3	tt0034583	Casablanca	casablanca_tt0034583	1942
+4	tt0081398	Raging Bull	raging_bull	1980
+5	tt0045152	Singin' in the Rain	singin.in.the.r_tt0045152	1952
+6	tt0031381	Gone with the Wind	gone.with.the.w_tt0031381	1939
+7	tt0056172	Lawrence of Arabia	lawrence.of.ara_tt0056172	1962
+8	tt0108052	Schindler's List	schindlers_list	1993
+9	tt0052357	Vertigo	vertigo_tt0052357	1958
+10	tt0032138	The Wizard of Oz	wizard.of.oz_tt0032138	1939
+11	tt0021749	City Lights	city.ligihts_tt0021749	1931
+12	tt0049730	The Searchers	searchers_tt0049730	1956
+13	tt0076759	Star Wars: Episode IV - A New Hope	star.wars.episo_tt0076759	1977
+14	tt0054215	Psycho	psycho_tt0054215	1960
+15	tt0062622	2001: A Space Odyssey	2001.a.space.od_tt0062622	1968
+16	tt0043014	Sunset Boulevard	sunset.blvd._tt0043014	1950
+17	tt0061722	The Graduate	graduate_tt0061722	1967
+18	tt0017925	The General	general_tt0017925	1926
+19	tt0047296	On the Waterfront	on.the.waterfront_tt0047296	1954
+20	tt0038650	It's a Wonderful Life	wonderful.life_tt0038650	1946
+21	tt0071315	Chinatown	chinatown_tt0071315	1974
+22	tt0053291	Some Like It Hot	some.like.it.ho_tt0053291	1959
+23	tt0032551	The Grapes of Wrath	grapes.of.wrath_tt0032551	1940
+24	tt0083866	E.T. the Extra-Terrestrial	et	1982
+25	tt0056592	To Kill a Mockingbird	to.kill.a.mocki_tt0056592	1962
+26	tt0031679	Mr. Smith Goes to Washington	mr..smith.goes._tt0031679	1939
+27	tt0044706	High Noon	high.noon_tt0044706	1952
+28	tt0042192	All About Eve	all.about.eve_tt0042192	1950
+29	tt0036775	Double Indemnity	double.indemnity_tt0036775	1944
+30	tt0078788	Apocalypse Now	apocalypse.now_tt0078788	1979
+31	tt0033870	The Maltese Falcon	maltese.falcon_tt0033870	1941
+32	tt0071562	The Godfather Part II	godfather.part._tt0071562	1974
+33	tt0073486	One Flew Over the Cuckoo's Nest	one.flew.over.t_tt0073486	1975
+34	tt0029583	Snow White and the Seven Dwarfs	snow.white.and._tt0029583	1937
+35	tt0075686	Annie Hall	annie.hall_tt0075686	1977
+36	tt0050212	The Bridge on the River Kwai	bridge.on.the.r_tt0050212	1957
+37	tt0036868	The Best Years of Our Lives	best.years.of.o_tt0036868	1946
+38	tt0040897	The Treasure of the Sierra Madre	treasure.of.the_tt0040897	1948
+39	tt0057012	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	dr.strangelove_tt0057012	1964
+40	tt0059742	The Sound of Music	sound.of.music_tt0059742	1965
+41	tt0024216	King Kong	king.kong_tt0024216	1933
+42	tt0061418	Bonnie and Clyde	bonnie.and.clyd_tt0061418	1967
+43	tt0064665	Midnight Cowboy	midnight.cowboy_tt0064665	1969
+44	tt0032904	The Philadelphia Story	philadelphia.story_tt0032904	1940
+45	tt0046303	Shane	shane_tt0046303	1953
+46	tt0025316	It Happened One Night	it.happened.one.night_tt0025316	1934
+47	tt0044081	A Streetcar Named Desire	a.streetcar.nam_tt0044081	1951
+48	tt0047396	Rear Window	rear.window_tt0047396	1954
+49	tt0006864	Intolerance	intolerance_tt0006864	1916
+50	tt0120737	The Lord of the Rings: The Fellowship of the Ring	lotr_fellowship	2001
+51	tt0055614	West Side Story	west.side.story_tt0055614	1961
+52	tt0075314	Taxi Driver	taxi.driver_tt0075314	1976
+53	tt0077416	The Deer Hunter	deer.hunter_tt0077416	1978
+54	tt0066026	M*A*S*H	mash_tt0066026	1970
+55	tt0053125	North by Northwest	north.by.northw_tt0053125	1959
+56	tt0073195	Jaws	jaws_tt0073195	1975
+57	tt0075148	Rocky	rocky_tt0075148	1976
+58	tt0015864	The Gold Rush	gold.rush_tt0015864	1925
+59	tt0073440	Nashville	nashville_tt0073440	1975
+60	tt0023969	Duck Soup	duck.soup_tt0023969	1933
+61	tt0034240	Sullivan's Travels	sullivans.trave_tt0034240	1941
+62	tt0069704	American Graffiti	american.graffi_tt0069704	1973
+63	tt0068327	Cabaret	cabaret_tt0068327	1972
+64	tt0074958	Network	network_tt0074958	1976
+65	tt0043265	The African Queen	african.queen_tt0043265	1951
+66	tt0082971	Raiders of the Lost Ark	raiders_of_the_lost_ark	1981
+67	tt0061184	Who's Afraid of Virginia Woolf?	whos.afraid.of._tt0061184	1966
+68	tt0105695	Unforgiven	unforgiven	1992
+69	tt0084805	Tootsie	tootsie	1982
+70	tt0066921	A Clockwork Orange	a.clockwork.ora_tt0066921	1971
+71	tt0120815	Saving Private Ryan	saving_private_ryan	1998
+72	tt0111161	The Shawshank Redemption	shawshank.redem_tt0111161	1994
+73	tt0064115	Butch Cassidy and the Sundance Kid	butch.cassidy.a_tt0064115	1969
+74	tt0102926	The Silence of the Lambs	silence_of_the_lambs	1991
+75	tt0061811	In the Heat of the Night	in.the.heat.of.the.night_tt0061811	1967
+76	tt0109830	Forrest Gump	forrest_gump	1994
+77	tt0074119	All the President's Men	all.the.preside_tt0074119	1976
+78	tt0027977	Modern Times	modern.times_tt0027977	1936
+79	tt0065214	The Wild Bunch	wild.bunch_tt0065214	1969
+80	tt0053604	The Apartment	apartment_tt0053604	1960
+81	tt0054331	Spartacus	spartacus_tt0054331	1960
+82	tt0018455	Sunrise	sunrise_tt0018455	1927
+83	tt0120338	Titanic	titanic	1997
+84	tt0064276	Easy Rider	easy.rider_tt0064276	1969
+85	tt0026778	A Night at the Opera	a.night.at.the._tt0026778	1935
+86	tt0091763	Platoon	platoon	1986
+87	tt0050083	12 Angry Men	12.angry.men_tt0050083	1957
+88	tt0029947	Bringing Up Baby	bringing.up.bab_tt0029947	1938
+89	tt0167404	The Sixth Sense	sixth_sense	1999
+90	tt0028333	Swing Time	swing.time_tt0028333	1936
+91	tt0084707	Sophie's Choice	sophies.choice_tt0084707	1982
+92	tt0099685	Goodfellas	goodfellas_tt0099685	1990
+93	tt0067116	The French Connection	french.connecti_tt0067116	1971
+94	tt0110912	Pulp Fiction	pulp_fiction	1994
+95	tt0067328	The Last Picture Show	last.picture.sh_tt0067328	1971
+96	tt0097216	Do the Right Thing	do.the.right.th_tt0097216	1989
+97	tt0083658	Blade Runner	blade.runner_tt0083658	1982
+98	tt0035575	Yankee Doodle Dandy	yankee.doodle.d_tt0035575	1942
+99	tt0114709	Toy Story	toy.story_tt0114709	1995
+100	tt0052618	Ben-Hur	benhur_tt0052618	1959

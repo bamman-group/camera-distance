@@ -1,0 +1,105 @@
+rank	imdb	title	id	year
+1	tt0062622	2001: A Space Odyssey	2001.a.space.od_tt0062622	1968
+2	tt0033467	Citizen Kane	citizen.kane_tt0033467	1941
+3	tt0068646	The Godfather	godfather_tt0068646	1972
+4	tt0073198	Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles	jeanne.dielman_tt0073198	1975
+5	tt0046438	Tokyo Story	tokyo.story_tt0046438	1953
+6	tt0052357	Vertigo	vertigo_tt0052357	1958
+7	tt0056801	8½	8_tt0056801	1963
+8	tt0072443	Mirror	mirror_tt0072443	1975
+9	tt0118694	In the Mood for Love	in.the.mood.for_tt0118694	2000
+10	tt0100234	Close-Up	closeup_tt0100234	1990
+11	tt0060827	Persona	persona_tt0060827	1966
+12	tt0075314	Taxi Driver	taxi.driver_tt0075314	1976
+13	tt0072684	Barry Lyndon	barry.lyndon_tt0072684	1975
+14	tt0209933	Beau Travail	beau.travail_tt0209933	1999
+15	tt0047478	Seven Samurai	seven.samurai_tt0047478	1954
+16	tt0053472	Breathless	breathless_tt0053472	1960
+17	tt0079944	Stalker	stalker_tt0079944	1979
+18	tt0078788	Apocalypse Now	apocalypse.now_tt0078788	1979
+19	tt0072417	A Woman Under the Influence	a.woman.under.t_tt0072417	1974
+20	tt0040522	Bicycle Thieves	bicycle.thieves_tt0040522	1948
+21	tt0042876	Rashomon	rashomon_tt0042876	1950
+22	tt0166924	Mulholland Drive	mulholland.driv_tt0166924	2001
+23	tt0048473	Pather Panchali	pather.panchali_tt0048473	1955
+24	tt0058946	The Battle of Algiers	battle.of.algie_tt0058946	1966
+25	tt0081398	Raging Bull	raging_bull	1980
+26	tt0060107	Andrei Rublev	andrei.rublev_tt0060107	1966
+27	tt0071562	The Godfather Part II	godfather.part._tt0071562	1974
+28	tt0099685	Goodfellas	goodfellas_tt0099685	1990
+29	tt0097216	Do the Right Thing	do.the.right.th_tt0097216	1989
+30	tt0019760	Man with a Movie Camera	man.with.a.movie.camera_tt0019760	1929
+31	tt0019254	The Passion of Joan of Arc	passion.of.joan_tt0019254	1928
+32	tt0048452	Ordet	ordet_tt0048452	1955
+33	tt0018455	Sunrise	sunrise_tt0018455	1927
+34	tt0053198	The 400 Blows	400.blows_tt0053198	1959
+35	tt0053779	La Dolce Vita	la.dolce.vita_tt0053779	1960
+36	tt0056119	La Jetée	la.jete_tt0056119	1962
+37	tt0060138	Au hasard Balthazar	au.hasard.balth_tt0060138	1966
+38	tt0031885	The Rules of the Game	rules.of.the.ga_tt0031885	1939
+39	tt0053619	L'Avventura	lavventura_tt0053619	1960
+40	tt0047528	La Strada	la.strada_tt0047528	1954
+41	tt0062136	Playtime	playtime_tt0062136	1967
+42	tt0048424	The Night of the Hunter	night.of.the.hunter_tt0048424	1955
+43	tt0049902	A Man Escaped	a.man.escaped_tt0049902	1956
+44	tt0089960	Vagabond	vagabond_tt0089960	1985
+45	tt0091251	Come and See	come.and.see_tt0091251	1985
+46	tt0054215	Psycho	psycho_tt0054215	1960
+47	tt0024844	L'Atalante	latalante_tt0024844	1934
+48	tt0021749	City Lights	city.ligihts_tt0021749	1931
+49	tt0057345	Contempt	contempt_tt0057345	1963
+50	tt0064116	Once Upon a Time in the West	once.upon.a.tim_tt0064116	1968
+51	tt0069995	Don't Look Now	dont.look.now_tt0069995	1973
+52	tt0057012	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	dr.strangelove_tt0057012	1964
+53	tt0045152	Singin' in the Rain	singin.in.the.r_tt0045152	1952
+54	tt0055852	Cléo from 5 to 7	clo.from.5.to.7_tt0055852	1962
+55	tt0107822	The Piano	piano_tt0107822	1993
+56	tt0071141	Ali: Fear Eats the Soul	ali.fear.eats.t_tt0071141	1974
+57	tt0070359	The Mother and the Whore	mother.and.the._tt0070359	1973
+58	tt0083922	Fanny and Alexander	fanny.and.alexa_tt0083922	1982
+59	tt0054130	La Notte	la.notte_tt0054130	1961
+60	tt0074486	Eraserhead	eraserhead_tt0074486	1977
+61	tt0055601	Viridiana	viridiana_tt0055601	1961
+62	tt0036154	Meshes of the Afternoon		1943
+63	tt0041154	Late Spring	late.spring_tt0041154	1949
+64	tt0053291	Some Like It Hot	some.like.it.ho_tt0053291	1959
+65	tt0083658	Blade Runner	blade.runner_tt0083658	1982
+66	tt0043014	Sunset Boulevard	sunset.blvd._tt0043014	1950
+67	tt0111341	Satantango		1994
+68	tt0381668	Tropical Malady		2004
+69	tt0073195	Jaws	jaws_tt0073195	1975
+70	tt0056172	Lawrence of Arabia	lawrence.of.ara_tt0056172	1962
+71	tt0240419	The Swamp	swamp_tt0240419	2001
+72	tt0049730	The Searchers	searchers_tt0049730	1956
+73	tt0090015	Shoah		1985
+74	tt0076452	News from Home	news.from.home_tt0076452	1976
+75	tt0084628	Sans Soleil	sans.soleil_tt0084628	1983
+76	tt0070820	Journey of the Hyena	journey.of.the._tt0070820	1973
+77	tt0040725	The Red Shoes	red.shoes_tt0040725	1948
+78	tt0101985	A Brighter Summer Day	brighter.summer.day_tt0101985	1991
+79	tt0027977	Modern Times	modern.times_tt0027977	1936
+80	tt0090756	Blue Velvet	blue.velvet_tt0090756	1986
+81	tt0070040	The Spirit of the Beehive	spirit.of.the.b_tt0070040	1973
+82	tt0050986	Wild Strawberries	wild.strawberri_tt0050986	1957
+83	tt0075404	The Ascent	ascent_tt0075404	1977
+84	tt0050976	The Seventh Seal	seventh.seal_tt0050976	1957
+85	tt0071315	Chinatown	chinatown_tt0071315	1974
+86	tt0044741	Ikiru	ikiru_tt0044741	1952
+87	tt0093342	Where Is the Friend's House?	where.is.the.fr_tt0093342	1987
+88	tt0085180	L'Argent	largent_tt0085180	1983
+89	tt0071360	The Conversation	conversation_tt0071360	1974
+90	tt0073650	Salò, or the 120 Days of Sodom	sal.or.the.120._tt0073650	1975
+91	tt1832382	A Separation	a.separation_tt1832382	2011
+92	tt0064541	Kes	kes_tt0064541	1969
+93	tt0067961	Wanda	wanda_tt0067961	1970
+94	tt0015648	Battleship Potemkin	battleship.potemkin_tt0015648	1925
+95	tt4975722	Moonlight	moonlight_tt4975722	2016
+96	tt6751668	Parasite	parasite	2019
+97	tt0244316	Yi Yi	yi.yi.a.one.and_tt0244316	2000
+98	tt0065571	The Conformist	conformist_tt0065571	1970
+99	tt0063555	The Color of Pomegranates	color.of.pomegr_tt0063555	1969
+100	tt0053168	Pickpocket	pickpocket_tt0053168	1959
+101	tt0120265	Taste of Cherry	taste.of.cherry_tt0120265	1997
+102	tt0387898	Caché	cach.hidden_tt0387898	2005
+103	tt0338013	Eternal Sunshine of the Spotless Mind	eternal.sunshin_tt0338013	2004
+104	tt0050613	Throne of Blood	throne.of.blood_tt0050613	1957

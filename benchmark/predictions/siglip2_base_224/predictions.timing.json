@@ -1,0 +1,10 @@
+{
+  "model_dir": "checkpoints_cosine/siglip2_base_224",
+  "arch": "siglip2_base_224",
+  "split": "test",
+  "output": "predictions_cosine/siglip2_base_224/predictions.jsonl",
+  "fps": 4.0,
+  "resize_filter": "area",
+  "n_frames": 27952,
+  "predict_time_s": 152.6
+}

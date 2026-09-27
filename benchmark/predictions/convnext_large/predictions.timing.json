@@ -1,0 +1,10 @@
+{
+  "model_dir": "checkpoints_cosine/convnext_large",
+  "arch": "convnext_large",
+  "split": "test",
+  "output": "predictions_cosine/convnext_large/predictions.jsonl",
+  "fps": 4.0,
+  "resize_filter": "area",
+  "n_frames": 27952,
+  "predict_time_s": 201.8
+}

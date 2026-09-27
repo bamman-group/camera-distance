@@ -1,0 +1,10 @@
+{
+  "model_dir": "checkpoints_cosine/vit_l_16",
+  "arch": "vit_l_16",
+  "split": "test",
+  "output": "predictions_cosine/vit_l_16/predictions.jsonl",
+  "fps": 4.0,
+  "resize_filter": "area",
+  "n_frames": 27952,
+  "predict_time_s": 248.4
+}

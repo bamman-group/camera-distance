@@ -1,0 +1,12 @@
+numpy<2
+
+torch==2.3.1
+torchvision==0.18.1
+
+transformers[sentencepiece]==4.50.0
+
+accelerate
+scikit-learn
+opencv-python-headless
+Pillow
+tqdm
